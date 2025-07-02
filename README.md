@@ -1,10 +1,48 @@
-- 👋 Hi, I’m @rbohling
-- 👀 I’m interested in documentation and Linux sysadmin projects.
-- 🌱 I’m currently learning technical writing for SOPs.
-- 💞️ I’m looking to collaborate on projects in need of documentation editing. 
 
+````markdown name=README.md
+# 👋 Hi, I'm rbohling!
 
-<!---
-rbohling/rbohling is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Profession/Current Role:**  
+System Administrator
+
+---
+
+## 🛠️ Top Skills & Tech Stack
+- **Languages & Scripting:** Python, PowerShell, Bash
+- **Tools:** Wireshark, Excel
+
+---
+
+## 🌟 Favorite/Highlighted Projects
+<!-- Add your favorite repos here! -->
+<!-- Example:
+- [my-awesome-repo](https://github.com/yourusername/my-awesome-repo)
+- [another-cool-project](https://github.com/yourusername/another-cool-project)
+-->
+
+---
+
+## 🚀 Interests
+- Jiu Jitsu
+- Hiking
+- Running
+
+---
+
+## 🌐 Social Links
+<!-- Add your LinkedIn, Twitter, blog, or personal website! -->
+<!-- Example:
+- [LinkedIn](https://www.linkedin.com/in/yourprofile/)
+- [Twitter](https://twitter.com/yourhandle)
+- [Personal Site](https://yourwebsite.com)
+-->
+
+---
+
+## 💡 Fun Fact / Favorite Quote
+> “I like things to happen, and if they don’t happen, I like to make them happen.”  
+> — Winston Churchill
+
+````
+
+Let me know if you want to add your social links or highlight any specific GitHub repos!
